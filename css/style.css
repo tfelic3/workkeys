@@ -1,0 +1,106 @@
+body{
+	background: black;
+	color: white;
+
+}
+
+.start{ color: white;
+	font-size: 2em;
+	margin: auto;
+	width: 45%;
+    padding: 10px;
+ }
+
+ .byline {
+ 	 color: white; 
+ 	 position: absolute;
+	top:50%;
+	left: 42%;
+	font-size: 1.5em;
+
+ }
+
+
+
+
+
+.first{
+	background-image:url("../images/workkeys2.jpg");
+	min-height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    }
+
+
+.words{
+	font-size: 1em;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    line-height: 30px; 
+    }
+
+
+.square{
+	position: relative;
+}
+
+
+#second{
+	background-image:url("../images/workkeys1.jpg");
+	min-height: 600px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.test2{
+	    visibility: hidden;
+}
+
+.test{
+	visibility: visible;
+}
+
+.box{
+	position: absolute;
+	top:40%;
+	left: 15%;
+	padding: .5em;
+   height: em;
+   width: 29em;
+   color:white;
+   line-height: 2em;
+}
+
+
+.third{
+	background-image:url("../images/workkeys0.jpg");
+	min-height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.final{
+    position: relative;
+}
+
+.last{
+  font-size: 1em;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    line-height: 30px; 
+    }
+
+
+
+
+
